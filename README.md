@@ -31,5 +31,5 @@ Each notebook contains detailed steps for model training, fine-tuning, and infer
 
 We welcome contributions from the community to make this project more robust and versatile. For queries or contributions, please contact:
 
--Somiran Dutta
+-Sujal Navandher
 - Email: [sujalnavandher7@gmail.com](sujalnavandher7@gmail.com)
